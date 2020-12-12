@@ -1,0 +1,4 @@
+# Photovoltaic_electronic_communication_control
+光伏电子通讯控制软件
+谈谈这个软件的缺点
+
