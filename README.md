@@ -27,6 +27,8 @@
 
 参考库：Floating-point-data-processing(回到主页就可以看见，中文名：浮点数处理)；
 
+获取算法文档：https://github.com/GitHub-yiming/Photovoltaic_electronic_communication_control/blob/main/0ca371475ad08e7c8968f00876cd425a.pdf
+
 或者点击链接：https://github.com/GitHub-yiming/Floating-point-data-processing
 
 4.填写M区数据需要一个一个修改：推荐的解决办法是，当数值改变的时候，识别当前的数值，并且增加，自动追加到后面的文本框，这样就不用一个一个手动输入了；
