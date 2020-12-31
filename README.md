@@ -27,7 +27,7 @@
 
 参考库：Floating-point-data-processing(回到主页就可以看见，中文名：浮点数处理)；
 
-获取算法文档：https://github.com/GitHub-yiming/Photovoltaic_electronic_communication_control/blob/main/0ca371475ad08e7c8968f00876cd425a.pdf
+获取算法文档：https://github.com/GitHub-yiming/Photovoltaic_electronic_communication_control/blob/main/%E6%B5%AE%E7%82%B9%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.rar
 
 或者点击链接：https://github.com/GitHub-yiming/Floating-point-data-processing
 
